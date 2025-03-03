@@ -1,2 +1,1 @@
-# reactApp
-A react real estate APP
+Real Estate Website Starter Code
